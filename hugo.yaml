@@ -19,7 +19,7 @@ params:
   author: ["Frederick"]
 
   editPost:
-    URL: "https://github.com/sharpartzgh/Tech-Blog/content"
+    URL: "https://github.com/sharpartzgh/Tech-Blog/blob/main/content"
     Text: "Suggest Changes"
     appendFilePath: true 
 
