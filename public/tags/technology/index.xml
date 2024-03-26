@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Technology on TechBlogger</title>
+    <link>http://localhost:1313/tags/technology/</link>
+    <description>Recent content in Technology on TechBlogger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Mar 2024 14:45:38 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Generative Ai</title>
+      <link>http://localhost:1313/post/generativeai/</link>
+      <pubDate>Mon, 25 Mar 2024 14:45:38 +0000</pubDate>
+      <guid>http://localhost:1313/post/generativeai/</guid>
+      <description>Generative AI, a cutting-edge technology, has revolutionized various industries by enabling machines to create content that resembles human-generated work.</description>
+    </item>
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>http://localhost:1313/post/ai/</link>
+      <pubDate>Mon, 25 Mar 2024 14:40:39 +0000</pubDate>
+      <guid>http://localhost:1313/post/ai/</guid>
+      <description>Artificial Intelligence, or AI, has already received a lot of buzz in the past decade.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/post/welcome/</link>
+      <pubDate>Thu, 25 Mar 2021 14:40:39 +0000</pubDate>
+      <guid>http://localhost:1313/post/welcome/</guid>
+      <description>PaperMod’s Demo 👋 Welcome to demo page of Hugo’s theme PaperMod!</description>
+    </item>
+  </channel>
+</rss>
