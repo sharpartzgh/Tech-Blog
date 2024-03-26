@@ -6,7 +6,7 @@ theme: ["PaperMod"]
 params:
   homeInfoParams:
     Title: Hi there 👋 
-    Content: Welcome to Techblog!...
+    Content: Welcome to Techblog 🤟😉
 
   socialIcons: 
     - name: "github"
