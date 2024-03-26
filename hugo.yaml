@@ -19,9 +19,9 @@ params:
   author: ["Frederick"]
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    URL: "https://github.com/sharpartzgh/Tech-Blog/content"
+    Text: "Suggest Changes"
+    appendFilePath: true 
 
   ShowToc: true
   ShowReadingTime: true
